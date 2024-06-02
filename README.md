@@ -1,6 +1,5 @@
 ## 👋 Hallo, ich bin Maviga!
 
-<!--
 **MAVIGA2K24/maviga2k24** ist ein ✨ _spezielles_ ✨ Repository, da seine `README.md` (diese Datei) in Ihrem GitHub-Profil erscheint.
 
 ---
