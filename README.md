@@ -8,8 +8,8 @@
 
 
 ## Update - 16.12.2025:
-Hallo, ich bin Maviga! Seit 2024 tauche ich in die Welt des Erstellens von GTA5 Ymaps mit CodeWalker ein.  
-Bis zum 16.12.2025 wurden Ymaps noch unter dem Namen "MAVIGA 2K24" veröffentlicht.
+Seit 2024 tauche ich in die Welt des Erstellens von GTA5 Ymaps mit CodeWalker ein.  
+Bis zum 16.12.2025 wurden Ymaps noch unter dem Namen "MAVIGA 2K24" veröffentlicht. Neuer Name: nougaris
 
-Hello, I'm Maviga! Since 2024, I've been diving into the world of creating GTA5 Ymaps with CodeWalker.  
-Until 16.12.2025, Ymaps were published under the name "MAVIGA 2K24".
+Since 2024, I've been diving into the world of creating GTA5 Ymaps with CodeWalker.  
+Until 16.12.2025, Ymaps were published under the name "MAVIGA 2K24". New Name: nougaris
